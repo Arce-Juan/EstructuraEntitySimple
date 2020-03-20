@@ -12,3 +12,17 @@ C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Datos\obj\Debug\Datos.csproj
 C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Datos\obj\Debug\Datos.csproj.CopyComplete
 C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Datos\obj\Debug\Datos.dll
 C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Datos\obj\Debug\Datos.pdb
+D:\GIT\EstructuraEntitySimple\ProyectoEjemploEntity\Datos\bin\Debug\Datos.dll.config
+D:\GIT\EstructuraEntitySimple\ProyectoEjemploEntity\Datos\bin\Debug\Datos.dll
+D:\GIT\EstructuraEntitySimple\ProyectoEjemploEntity\Datos\bin\Debug\Datos.pdb
+D:\GIT\EstructuraEntitySimple\ProyectoEjemploEntity\Datos\bin\Debug\Entidad.dll
+D:\GIT\EstructuraEntitySimple\ProyectoEjemploEntity\Datos\bin\Debug\EntityFramework.dll
+D:\GIT\EstructuraEntitySimple\ProyectoEjemploEntity\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIT\EstructuraEntitySimple\ProyectoEjemploEntity\Datos\bin\Debug\Entidad.pdb
+D:\GIT\EstructuraEntitySimple\ProyectoEjemploEntity\Datos\bin\Debug\EntityFramework.xml
+D:\GIT\EstructuraEntitySimple\ProyectoEjemploEntity\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\GIT\EstructuraEntitySimple\ProyectoEjemploEntity\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\GIT\EstructuraEntitySimple\ProyectoEjemploEntity\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\GIT\EstructuraEntitySimple\ProyectoEjemploEntity\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\GIT\EstructuraEntitySimple\ProyectoEjemploEntity\Datos\obj\Debug\Datos.dll
+D:\GIT\EstructuraEntitySimple\ProyectoEjemploEntity\Datos\obj\Debug\Datos.pdb
