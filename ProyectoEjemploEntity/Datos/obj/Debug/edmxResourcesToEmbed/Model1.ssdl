@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CursosMunicipalidadModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tb_Alumno">
+    <Key>
+      <PropertyRef Name="idAlumno" />
+    </Key>
+    <Property Name="idAlumno" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="legajo" Type="int" Nullable="false" />
+    <Property Name="Persona_IdPersona" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tb_Persona">
+    <Key>
+      <PropertyRef Name="idPersona" />
+    </Key>
+    <Property Name="idPersona" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="apellidos" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="nombres" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_tb_Alumno_tb_Persona">
+    <End Role="tb_Persona" Type="Self.tb_Persona" Multiplicity="1" />
+    <End Role="tb_Alumno" Type="Self.tb_Alumno" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_Persona">
+        <PropertyRef Name="idPersona" />
+      </Principal>
+      <Dependent Role="tb_Alumno">
+        <PropertyRef Name="Persona_IdPersona" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CursosMunicipalidadModelStoreContainer">
+    <EntitySet Name="tb_Alumno" EntityType="Self.tb_Alumno" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tb_Persona" EntityType="Self.tb_Persona" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_tb_Alumno_tb_Persona" Association="Self.FK_tb_Alumno_tb_Persona">
+      <End Role="tb_Persona" EntitySet="tb_Persona" />
+      <End Role="tb_Alumno" EntitySet="tb_Alumno" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

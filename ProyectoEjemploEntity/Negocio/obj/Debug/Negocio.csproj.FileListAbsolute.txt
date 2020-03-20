@@ -1,0 +1,14 @@
+C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Negocio\bin\Debug\Negocio.dll
+C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Negocio\bin\Debug\Datos.dll
+C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Negocio\bin\Debug\Entidad.dll
+C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Negocio\bin\Debug\Datos.pdb
+C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Negocio\obj\Debug\Negocio.dll
+C:\Users\Juan PC\source\repos\ProyectoEjemploEntity\Negocio\obj\Debug\Negocio.pdb
